@@ -1,5 +1,12 @@
 ## Olá, Eu sou a Greice! Seja bem Vindo!
 
+
+
+## AQUI ESTÁ OS LINKS DAS BADGES E ICONES UTILIZADOS PARA PERSOALIZAR MEU REPOSITÓRIO!
+
+https://emojipedia.org/nerd-face
+https://dev.to/envoy_/150-badges-for-github-pnk#ide
+
 🖥️ Técnica em informática<br/>
 🖥️ Bacharel em Engenharia  da Computação<br/>
 🖥️Pós graduada em cloud computing<br/>
