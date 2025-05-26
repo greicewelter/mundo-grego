@@ -9,7 +9,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk#ide
 
 🖥️ Técnica em informática<br/>
 🖥️ Bacharel em Engenharia  da Computação<br/>
-🖥️Pós graduada em cloud computing<br/>
+🖥️ Pós graduada em cloud computing<br/>
+🖥️ Mestranda em Engenharia de Software<br/>
 🤓 pesquisadora
 
 [![Linekdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greice-welter-9633bbb9/)
