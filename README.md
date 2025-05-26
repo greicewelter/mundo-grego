@@ -11,7 +11,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk#ide
 🖥️ Bacharel em Engenharia  da Computação<br/>
 🖥️ Pós graduada em cloud computing<br/>
 🖥️ Mestranda em Engenharia de Software<br/>
-🤓 pesquisadora
+🤓 Pesquisadora no Laboratório de Pesquisas Avançadas para Computação em Nuvem (LARCC)
 
 [![Linekdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greice-welter-9633bbb9/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weltergreice/)
